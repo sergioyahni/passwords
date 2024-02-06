@@ -1,1 +1,1 @@
-C:\Users\sergioy\PythonScripts\passwords\venv\Scripts\python.exe C:\Users\sergioy\PythonScripts\passwords\main.py %1 %2 %3 %4 %5
+[root path to]\passwords\main.py %1 %2 %3 %4 %5
