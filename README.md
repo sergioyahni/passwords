@@ -6,13 +6,13 @@ The CLI (Command Line Interface) password generator is a tool designed to simpli
 
 ## Key Features:
 
-*Password Storage:* The generator allows users to securely store their login credentials for different websites or services. By saving usernames and passwords within the tool, users can avoid the need to remember multiple complex passwords or resort to less secure practices such as using the same password across multiple platforms.
+**Password Storage:** The generator allows users to securely store their login credentials for different websites or services. By saving usernames and passwords within the tool, users can avoid the need to remember multiple complex passwords or resort to less secure practices such as using the same password across multiple platforms.
 
-*Password Generation:* For added security, the generator can automatically create strong, randomized passwords. Users have the option to let the tool generate a password for them or input their own if they prefer.
+**Password Generation:** For added security, the generator can automatically create strong, randomized passwords. Users have the option to let the tool generate a password for them or input their own if they prefer.
 
-*Search Functionality:* The generator includes a search feature, enabling users to quickly retrieve their stored credentials for a specific website or service by providing its domain name.
+**Search Functionality:** The generator includes a search feature, enabling users to quickly retrieve their stored credentials for a specific website or service by providing its domain name.
 
-*Password Deletion:* Should the need arise, users can easily delete stored credentials for a particular website or service, enhancing control over their stored data.
+**Password Deletion:** Should the need arise, users can easily delete stored credentials for a particular website or service, enhancing control over their stored data.
 
 ## How It Works:
 
