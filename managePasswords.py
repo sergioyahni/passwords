@@ -4,6 +4,8 @@ from functions import generate, validPassword, checkIfItemExists,encode, decode
 
 
 class Passwords:
+    savedData = r"\absolute\path\to\data.json"
+
     def __init__(self, website=None, user=None):
         self.password = None
         self.website = website
