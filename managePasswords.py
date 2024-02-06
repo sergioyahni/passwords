@@ -76,8 +76,3 @@ class Passwords:
 
         except FileNotFoundError:
             print("File not found")
-
-
-if __name__ == "__main__":
-    p = Passwords("sergio.com", "sergio@mail.com")
-    p.DeletePassword()
